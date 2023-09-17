@@ -1443,3 +1443,13 @@ LogInit: Object subsystem initialized
 [2023.09.17-10.24.33:804][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.03 sec)
 [2023.09.17-10.24.33:805][689]AssetCheck: New page: Asset Save: IA_Flashlight
 [2023.09.17-10.24.33:805][689]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Flashlight.IA_Flashlight
+[2023.09.17-10.25.44:088][867]Cmd: TRANSACTION UNDO
+[2023.09.17-10.25.44:088][867]LogEditorTransaction: Undo Change Key Value
+[2023.09.17-10.25.49:469][311]Cmd: TRANSACTION UNDO
+[2023.09.17-10.25.49:469][311]LogEditorTransaction: Undo Change Key Value
+[2023.09.17-10.26.03:824][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-10.26.03:874][955]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2023.09.17-10.26.03:875][955]LogSavePackage: Moving '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Saved/IMC_Default81DD2C4647D545F6F5A650B2B86B00E2.tmp' to '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2023.09.17-10.26.03:879][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.09 sec)
+[2023.09.17-10.26.03:881][955]AssetCheck: New page: Asset Save: IMC_Default
+[2023.09.17-10.26.03:881][955]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
