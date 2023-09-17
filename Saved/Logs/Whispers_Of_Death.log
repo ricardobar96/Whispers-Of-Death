@@ -1317,3 +1317,17 @@ LogInit: Object subsystem initialized
 [2023.09.17-10.14.26:840][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 315 ms)
 [2023.09.17-10.14.26:841][763]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.09.17-10.14.26:841][763]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.17-10.16.18:689][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.09.17-10.16.18:691][  3]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.015
+[2023.09.17-10.16.18:692][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.09.17-10.16.18:831][  3]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.09.17-10.16.18:831][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.09.17-10.16.18:846][  3]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2023.09.17-10.16.18:846][  3]LogSavePackage: Moving '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Saved/BP_ThirdPersonCharacter_Auto2540911EE4165329201D62F8606E308E4.tmp' to '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2023.09.17-10.16.18:846][  3]LogFileHelpers: Auto-saving content packages took 0.155
+[2023.09.17-10.16.35:511][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-10.16.35:613][410]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.09.17-10.16.35:613][410]LogSavePackage: Moving '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Saved/BP_ThirdPersonCharacter62B2E5BC4371A06923E2B9BF2AC380CB.tmp' to '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.09.17-10.16.35:618][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 423 ms)
+[2023.09.17-10.16.35:619][410]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.09.17-10.16.35:619][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
