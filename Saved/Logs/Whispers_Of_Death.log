@@ -1422,3 +1422,24 @@ LogInit: Object subsystem initialized
 [2023.09.17-10.22.21:532][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 830 ms)
 [2023.09.17-10.22.21:532][630]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.09.17-10.22.21:532][630]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.17-10.23.18:645][800]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.09.17-10.23.18:650][800]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.09.17-10.23.18:658][801]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.09.17-10.23.25:694][556]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Flashlight
+[2023.09.17-10.23.25:696][556]LogContentBrowser: End creating deferred item NewInputAction
+[2023.09.17-10.23.39:870][821]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Flashlight.IA_Flashlight
+[2023.09.17-10.24.13:193][814]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.09.17-10.24.18:282][280]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.17-10.24.23:881][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-10.24.23:982][800]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2023.09.17-10.24.23:982][800]LogSavePackage: Moving '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Saved/IMC_Default871347FA477B7DC9B930FFAD4F056A2E.tmp' to '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2023.09.17-10.24.23:989][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 938 ms)
+[2023.09.17-10.24.23:989][800]AssetCheck: New page: Asset Save: IMC_Default
+[2023.09.17-10.24.23:989][800]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2023.09.17-10.24.33:702][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.09.17-10.24.33:706][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-10.24.33:795][689]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Flashlight
+[2023.09.17-10.24.33:795][689]LogSavePackage: Moving '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Saved/IA_FlashlightE8034EF940487B385A3F3C8BC5E6248E.tmp' to '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Content/ThirdPerson/Input/Actions/IA_Flashlight.uasset'
+[2023.09.17-10.24.33:804][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.03 sec)
+[2023.09.17-10.24.33:805][689]AssetCheck: New page: Asset Save: IA_Flashlight
+[2023.09.17-10.24.33:805][689]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Flashlight.IA_Flashlight
