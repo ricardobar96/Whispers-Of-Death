@@ -1304,3 +1304,9 @@ LogInit: Object subsystem initialized
 [2023.09.17-10.04.52:285][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2023.09.17-10.04.52:294][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2023.09.17-10.04.52:341][407]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.09.17-10.12.50:471][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-10.12.50:570][958]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.09.17-10.12.50:571][958]LogSavePackage: Moving '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Saved/BP_ThirdPersonCharacter4826A1934617F99F2976B8AD8DCBE8CF.tmp' to '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.09.17-10.12.50:578][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 227 ms)
+[2023.09.17-10.12.50:579][958]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.09.17-10.12.50:579][958]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
