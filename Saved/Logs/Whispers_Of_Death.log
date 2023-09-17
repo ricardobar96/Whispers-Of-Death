@@ -1410,3 +1410,15 @@ LogInit: Object subsystem initialized
 [2023.09.17-10.19.46:131][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 651 ms)
 [2023.09.17-10.19.46:132][715]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.09.17-10.19.46:132][715]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.17-10.21.34:208][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-10.21.34:295][528]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.09.17-10.21.34:296][528]LogSavePackage: Moving '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Saved/BP_ThirdPersonCharacter152090CC43D075A15D2AE88F3883EB1F.tmp' to '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.09.17-10.21.34:301][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 744 ms)
+[2023.09.17-10.21.34:302][528]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.09.17-10.21.34:302][528]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.09.17-10.22.21:445][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.17-10.22.21:526][630]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.09.17-10.22.21:526][630]LogSavePackage: Moving '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Saved/BP_ThirdPersonCharacter25B5FB7948314A36E279E998D8854027.tmp' to '../../../../../../Users/ricar/OneDrive/Documents/Unreal Projects/Whispers_Of_Death/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.09.17-10.22.21:532][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 830 ms)
+[2023.09.17-10.22.21:532][630]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.09.17-10.22.21:532][630]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
