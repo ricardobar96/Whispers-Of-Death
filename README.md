@@ -37,4 +37,4 @@ Coming soon
 
 ## Screenshots
 
-Coming soon
+![closet1](https://github.com/ricardobar96/Whispers-Of-Death/assets/73242474/4433b6d2-0d24-4f92-a4a4-75037d2e5458)
