@@ -31,7 +31,8 @@ Un niño rico calvo 👨‍🦲 te persigue en la oscuridad, buscando robarte la
 
 ## Preview
 
-Coming soon
+[<img src="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" width="50%">](https://www.youtube.com/watch?v=Wf63IvnhmEg "Demo game mechanics")
+
 
 <br>
 
