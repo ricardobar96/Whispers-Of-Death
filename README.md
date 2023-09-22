@@ -35,6 +35,7 @@ Un niño rico calvo 👨‍🦲 te persigue en la oscuridad, buscando robarte la
 
 
 <br>
+<br>
 
 ## Screenshots
 
