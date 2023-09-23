@@ -1,10 +1,15 @@
 # Whispers-Of-Death
-3D horror game made with Unreal Engine 5
-<br>
-A bald 👨‍🦲 rich kid chases you in the darkness, looking to steal your ideas and kill you. 🔪
+3D horror game made with Unreal Engine 5.
 <br>
 <br>
-He will never appear in front of you because he is a coward 🐔, but he will still search for ways to hurt you while hiding in the shadows of his daddy's mansion.
+Look out for mementos 📝 of a past friendship whilst you try to remember the bad deed that brought you to this place.
+<br>
+Be aware, because a bald 👨‍🦲 rich kid chases you in the darkness, looking to steal your ideas and your life.🔪
+<br>
+<br>
+He will never appear in front of you because he is a coward 🐔, but he will still search for ways to hurt you while hiding in the shadows.
+<br>
+Apparently, you have misbehaved, and each memento you collect serves to fuel his rage.
 <br>
 <br>
 Throw cans of hair growth 🍶 on the floor to distract him!
