@@ -1,4 +1,4 @@
-# Whispers-Of-Death
+# Whispers Of Death
 3D horror game made with Unreal Engine 5.
 <br>
 <br>
@@ -17,12 +17,17 @@ Throw cans of hair growth 🍶 on the floor to distract him!
 <br>
 
 --------------------------------------------------------------
-Juego de horror 3D hecho con Unreal Engine 5
-<br>
-Un niño rico calvo 👨‍🦲 te persigue en la oscuridad, buscando robarte las ideas y matarte.🔪
+Juego de horror 3D hecho con Unreal Engine 5.
 <br>
 <br>
-Él nunca te aparecerá de frente porque es un cobarde 🐔, pero aún así buscará maneras de herirte mientras se esconde en las sombras de la mansión de su papi.
+Busca recuerdos 📝 de una amistad pasada mientras intentas recordar la mala acción que te trajo a este lugar.
+<br>
+Ten cuidado, porque un niño rico calvo 👨‍🦲 te persigue en la oscuridad, buscando robar tus ideas y tu vida.🔪
+<br>
+<br>
+Él nunca te aparecerá de frente porque es un cobarde 🐔, pero aún así buscará maneras de herirte mientras se esconde en las sombras.
+<br>
+Por lo visto, te has portado mal, y cada recuerdo que recuperas alimenta su ira.
 <br>
 <br>
 ¡Tira botes de crecepelo 🍶 en el suelo para distraerle!
