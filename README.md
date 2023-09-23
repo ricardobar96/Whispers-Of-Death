@@ -26,7 +26,7 @@ He will never appear in front of you because he is a coward 🐔, but he will st
 Apparently, you have misbehaved, and each memento you collect serves to fuel his hatred towards you.😡
 <br>
 <br>
-Throw cans of hair growth 🍶 on the floor to distract him!
+Throw cans of hair growth 🍶 on the floor to distract him! His major weakness: insecurity and vanity
 <br>
 <br>
 
@@ -58,7 +58,7 @@ Sus ojos brillan de rabia en la oscuridad.
 Por lo visto, te has portado mal, y cada memoria que recuperas alimenta su odio hacia ti.😡
 <br>
 <br>
-¡Tira botes de crecepelo 🍶 en el suelo para distraerle!
+¡Tira botes de crecepelo 🍶 en el suelo para distraerle! Su mayor debilidad: la inseguridad y la vanidad.
 
 <br>
 
