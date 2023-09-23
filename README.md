@@ -14,7 +14,10 @@ Mementos 📝 of a past friendship brought you to this place.
 And a bad deed that you don't even remember to commit.
 <br>
 <br>
-Be aware, because a bald 👨‍🦲 rich kid chases you in the darkness, looking to steal your ideas and your life.🔪
+Be aware, because a bald 👨‍🦲 rich kid is out to get you.
+<br>
+<br>
+His eyes gleam with rage in the darkness.
 <br>
 <br>
 He will never appear in front of you because he is a coward 🐔, but he will still search for ways to hurt you while hiding in the shadows.
@@ -43,7 +46,10 @@ Memorias 📝 de una amistad pasada te trajeron a este lugar
 Y una mala acción que ni siquiera recuerdas cometer.
 <br>
 <br>
-Ten cuidado, porque un niño rico calvo 👨‍🦲 te persigue en la oscuridad, buscando robar tus ideas y tu vida.🔪
+Ten cuidado, porque un niño rico calvo 👨‍🦲 quiere atraparte.🔪
+<br>
+<br>
+Sus ojos brillan de rabia en la oscuridad.
 <br>
 <br>
 Él nunca te aparecerá de frente porque es un cobarde 🐔, pero aún así buscará maneras de herirte mientras se esconde en las sombras.
