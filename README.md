@@ -28,16 +28,16 @@ Throw cans of hair growth 🍶 on the floor to distract him! His major weakness:
 <br>
 
 --------------------------------------------------------------
-Sucio, mugriento, mohoso
+Sucio, mugriento, mohoso.
 <br>
 <br>
 El lugar donde descansan decenas de recuerdos.
 <br>
 <br>
-Memorias 📝 de una amistad pasada te trajeron a este lugar
+Memorias 📝 de una amistad pasada te trajeron a este lugar.
 <br>
 <br>
-Y una mala acción que ni siquiera recuerdas cometer.
+Y una mala acción que ni siquiera recuerdas realizar.
 <br>
 <br>
 Ten cuidado, porque un niño rico calvo 👨‍🦲 quiere atraparte.🔪
