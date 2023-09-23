@@ -1,7 +1,4 @@
 # Beyond Redemption
-3D horror game made with Unreal Engine 5.
-<br>
-<br>
 Dirty, grimy, moldy.
 <br>
 <br>
@@ -31,9 +28,6 @@ Throw cans of hair growth 🍶 on the floor to distract him! His major weakness:
 <br>
 
 --------------------------------------------------------------
-Juego de horror 3D hecho con Unreal Engine 5.
-<br>
-<br>
 Sucio, mugriento, mohoso
 <br>
 <br>
