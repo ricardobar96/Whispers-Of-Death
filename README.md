@@ -10,7 +10,7 @@ Be aware, because a bald 👨‍🦲 rich kid chases you in the darkness, lookin
 He will never appear in front of you because he is a coward 🐔, but he will still search for ways to hurt you while hiding in the shadows.
 <br>
 <br>
-Apparently, you have misbehaved, and each memento you collect serves to fuel his rage.
+Apparently, you have misbehaved, and each memento you collect serves to fuel his rage towards you.😡
 <br>
 <br>
 Throw cans of hair growth 🍶 on the floor to distract him!
@@ -29,7 +29,7 @@ Ten cuidado, porque un niño rico calvo 👨‍🦲 te persigue en la oscuridad,
 Él nunca te aparecerá de frente porque es un cobarde 🐔, pero aún así buscará maneras de herirte mientras se esconde en las sombras.
 <br>
 <br>
-Por lo visto, te has portado mal, y cada recuerdo que recuperas alimenta su ira.
+Por lo visto, te has portado mal, y cada recuerdo que recuperas alimenta su ira hacia ti.😡
 <br>
 <br>
 ¡Tira botes de crecepelo 🍶 en el suelo para distraerle!
