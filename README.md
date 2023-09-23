@@ -29,7 +29,7 @@ Ten cuidado, porque un niño rico calvo 👨‍🦲 te persigue en la oscuridad,
 Él nunca te aparecerá de frente porque es un cobarde 🐔, pero aún así buscará maneras de herirte mientras se esconde en las sombras.
 <br>
 <br>
-Por lo visto, te has portado mal, y cada recuerdo que recuperas alimenta su odio hacia ti.😡
+Por lo visto, te has portado mal, y cada memoria que recuperas alimenta su odio hacia ti.😡
 <br>
 <br>
 ¡Tira botes de crecepelo 🍶 en el suelo para distraerle!
