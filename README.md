@@ -20,10 +20,10 @@ Be aware, because a bald 👨‍🦲 rich kid is out to get you.
 His eyes gleam with rage in the darkness. Apparently, you have misbehaved.
 <br>
 <br>
-He will never appear in front of you because he is a coward 🐔, but he will still search for ways to hurt you while hiding in the shadows.
-<br>
-<br>
 Each memento you collect serves to fuel his hatred towards you.😡
+<br>
+<br>
+But do not be afraid of a coward 🐔 that hides in the shadows.
 <br>
 <br>
 Throw cans of hair growth 🍶 on the floor to distract him! His major weakness: insecurity and vanity
@@ -52,7 +52,7 @@ Ten cuidado, porque un niño rico calvo 👨‍🦲 quiere atraparte.🔪
 Sus ojos brillan de rabia en la oscuridad. Por lo visto, te has portado mal.
 <br>
 <br>
-Él nunca te aparecerá de frente porque es un cobarde 🐔, pero aún así buscará maneras de herirte mientras se esconde en las sombras.
+Pero no tengas miedo del cobarde 🐔 que se esconde en las sombras.
 <br>
 <br>
 Cada memoria que recuperas alimenta su odio hacia ti.😡
