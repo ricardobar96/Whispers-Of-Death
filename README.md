@@ -21,7 +21,7 @@ Throw cans of hair growth 🍶 on the floor to distract him!
 Juego de horror 3D hecho con Unreal Engine 5.
 <br>
 <br>
-Busca recuerdos 📝 de una amistad pasada mientras intentas recordar la mala acción que te trajo a este lugar.
+Recolecta memorias 📝 de una amistad pasada mientras intentas recordar la mala acción que te trajo a este lugar.
 <br>
 Ten cuidado, porque un niño rico calvo 👨‍🦲 te persigue en la oscuridad, buscando robar tus ideas y tu vida.🔪
 <br>
