@@ -10,7 +10,7 @@ Be aware, because a bald 👨‍🦲 rich kid chases you in the darkness, lookin
 He will never appear in front of you because he is a coward 🐔, but he will still search for ways to hurt you while hiding in the shadows.
 <br>
 <br>
-Apparently, you have misbehaved, and each memento you collect serves to fuel his hate towards you.😡
+Apparently, you have misbehaved, and each memento you collect serves to fuel his hatred towards you.😡
 <br>
 <br>
 Throw cans of hair growth 🍶 on the floor to distract him!
