@@ -17,13 +17,13 @@ And a bad deed that you don't even remember to commit.
 Be aware, because a bald 👨‍🦲 rich kid is out to get you.
 <br>
 <br>
-His eyes gleam with rage in the darkness.
+His eyes gleam with rage in the darkness. Apparently, you have misbehaved.
 <br>
 <br>
 He will never appear in front of you because he is a coward 🐔, but he will still search for ways to hurt you while hiding in the shadows.
 <br>
 <br>
-Apparently, you have misbehaved, and each memento you collect serves to fuel his hatred towards you.😡
+Each memento you collect serves to fuel his hatred towards you.😡
 <br>
 <br>
 Throw cans of hair growth 🍶 on the floor to distract him! His major weakness: insecurity and vanity
@@ -49,13 +49,13 @@ Y una mala acción que ni siquiera recuerdas cometer.
 Ten cuidado, porque un niño rico calvo 👨‍🦲 quiere atraparte.🔪
 <br>
 <br>
-Sus ojos brillan de rabia en la oscuridad.
+Sus ojos brillan de rabia en la oscuridad. Por lo visto, te has portado mal.
 <br>
 <br>
 Él nunca te aparecerá de frente porque es un cobarde 🐔, pero aún así buscará maneras de herirte mientras se esconde en las sombras.
 <br>
 <br>
-Por lo visto, te has portado mal, y cada memoria que recuperas alimenta su odio hacia ti.😡
+Cada memoria que recuperas alimenta su odio hacia ti.😡
 <br>
 <br>
 ¡Tira botes de crecepelo 🍶 en el suelo para distraerle! Su mayor debilidad: la inseguridad y la vanidad.
