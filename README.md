@@ -2,7 +2,17 @@
 3D horror game made with Unreal Engine 5.
 <br>
 <br>
-Look out for mementos 📝 of a past friendship whilst you try to remember the bad deed that brought you to this place.
+Dirty, grimy, moldy.
+<br>
+<br>
+The place where rest dozens of memories.
+<br>
+<br>
+Mementos 📝 of a past friendship brought you to this place.
+<br>
+<br>
+And a bad deed that you don't even remember to commit.
+<br>
 <br>
 Be aware, because a bald 👨‍🦲 rich kid chases you in the darkness, looking to steal your ideas and your life.🔪
 <br>
@@ -21,7 +31,17 @@ Throw cans of hair growth 🍶 on the floor to distract him!
 Juego de horror 3D hecho con Unreal Engine 5.
 <br>
 <br>
-Recolecta memorias 📝 de una amistad pasada mientras intentas recordar la mala acción que te trajo a este lugar.
+Sucio, mugriento, mohoso
+<br>
+<br>
+El lugar donde descansan decenas de recuerdos.
+<br>
+<br>
+Memorias 📝 de una amistad pasada te trajeron a este lugar
+<br>
+<br>
+Y una mala acción que ni siquiera recuerdas cometer.
+<br>
 <br>
 Ten cuidado, porque un niño rico calvo 👨‍🦲 te persigue en la oscuridad, buscando robar tus ideas y tu vida.🔪
 <br>
