@@ -86,7 +86,7 @@ E intenta arreglar lo que parece estar por siempre roto.🔐
 
 ## Preview
 
-[<img src="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" width="50%">](https://www.youtube.com/watch?v=Wf63IvnhmEg "Demo game mechanics")
+[<img src="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" width="50%">](https://www.youtube.com/watch?v=RQvXGJtuiUA "Demo game mechanics")
 
 
 <br>
