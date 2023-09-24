@@ -1,4 +1,14 @@
 # Beyond Redemption
+
+<br>
+
+| [📖 Concept](#concept) |[🎮 Preview](#preview) | [:camera: Screenshots](#screenshots) |
+| -------- | --------------- | -------- |
+
+<br>
+
+## Concept
+
 Dirty, grimy, moldy.
 <br>
 <br>
@@ -14,16 +24,22 @@ And a bad deed that you don't even remember to commit.
 Be aware, because a bald 👨‍🦲 rich kid is out to get you.
 <br>
 <br>
+Your ideas, stolen. He wants to destroy your mind and body.🔪
+<br>
+<br>
 His eyes gleam with rage in the darkness. Apparently, you have misbehaved.
 <br>
 <br>
-Your ideas, stolen.
+This is your last chance of redemption.
 <br>
 <br>
 Each memento you collect serves to fuel his hatred towards you.😡
 <br>
 <br>
 But do not be afraid of a coward 🐔 that hides in the shadows.
+<br>
+<br>
+And try to fix what seems forever broken.🔐
 <br>
 <br>
 Throw cans of hair growth 🍶 on the floor to distract him! His major weakness: insecurity and vanity.
@@ -43,27 +59,28 @@ Memorias 📝 de una amistad pasada te trajeron a este lugar.
 Y una mala acción que ni siquiera recuerdas realizar.
 <br>
 <br>
-Ten cuidado, porque un niño rico calvo 👨‍🦲 quiere atraparte.🔪
+Ten cuidado, porque un niño rico calvo 👨‍🦲 quiere atraparte.
+<br>
+<br>
+Tus ideas, robadas. Quiere destruir tu mente y tu cuerpo.🔪
 <br>
 <br>
 Sus ojos brillan de rabia en la oscuridad. Por lo visto, te has portado mal.
 <br>
 <br>
-Tus ideas, robadas.
-<br>
-<br>
-Pero no tengas miedo de un cobarde 🐔 que se esconde en las sombras.
+Esta es tu última oportunidad para redimirte.
 <br>
 <br>
 Cada memoria que recuperas alimenta su odio hacia ti.😡
 <br>
 <br>
-¡Tira botes de crecepelo 🍶 en el suelo para distraerle! Su mayor debilidad: la inseguridad y la vanidad.
-
+Pero no tengas miedo de un cobarde 🐔 que se esconde en las sombras.
 <br>
-
-| [🎮 Preview](#preview) | [:camera: Screenshots](#screenshots) |
-| --------------- | -------- |
+<br>
+E intenta arreglar lo que parece estar por siempre roto.🔐
+<br>
+<br>
+¡Tira botes de crecepelo 🍶 en el suelo para distraerle! Su mayor debilidad: la inseguridad y la vanidad.
 
 <br>
 
