@@ -94,4 +94,7 @@ E intenta arreglar lo que parece estar por siempre roto.🔐
 
 ## Screenshots
 
+![Captura de pantalla 2023-09-26 184328](https://github.com/ricardobar96/beyond-redemption/assets/73242474/92e87526-c93a-4ece-90a4-65b1b4c9cccb)
+
+
 ![closet1](https://github.com/ricardobar96/Whispers-Of-Death/assets/73242474/c2125a31-fefe-4d23-abe8-c2d4f4f6ad59)
