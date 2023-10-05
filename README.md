@@ -9,31 +9,31 @@
 
 ## Concept
 
-Dirty, grimy, moldy.
+_Dirty, grimy, moldy._
 <br>
 <br>
-The place where rest dozens of memories.
+_The place where rest dozens of memories._
 <br>
 <br>
-Mementos of a past friendship brought you to this place.
+_Mementos of a past friendship brought you to this place._
 <br>
 <br>
-And a bad deed that you don't even remember to commit.
+_And a bad deed that you don't even remember to commit._
 <br>
 <br>
-Be aware of the bald, hurt enemy.
+_Be aware of the bald, hurt enemy._
 <br>
 <br>
-His eyes gleam with rage in the darkness. Apparently, you have misbehaved.
+_His eyes gleam with rage in the darkness. Apparently, you have misbehaved._
 <br>
 <br>
-Each memento you collect fuels his hatred towards you.
+_Each memento you collect fuels his hatred towards you._
 <br>
 <br>
-But do not pity those who hides in the shadows.
+_But do not pity whom hides in the shadows._
 <br>
 <br>
-And try to fix what seems forever broken.
+_And try to fix what seems forever broken._
 <br>
 <br>
 
@@ -49,8 +49,8 @@ And try to fix what seems forever broken.
 - Press F to turn the flashlight On and Off.
 - Press E to interact with objects.
 - Hide inside closets.
-- Look out for mementos and a weapon.
-- Finish off your bald pursuer.
+- Look out for mementos on the map.
+- Find a weapon and finish off your bald pursuer.
 
 <br>
 <br>
