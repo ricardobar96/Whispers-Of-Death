@@ -21,16 +21,16 @@ Mementos of a past friendship brought you to this place.
 And a bad deed that you don't even remember to commit.
 <br>
 <br>
+Be aware of the bald, hurt enemy.
+<br>
+<br>
 His eyes gleam with rage in the darkness. Apparently, you have misbehaved.
 <br>
 <br>
-This is your last chance of redemption.
+Each memento you collect fuels his hatred towards you.
 <br>
 <br>
-Each memento you collect serves to fuel his hatred towards you.
-<br>
-<br>
-Be aware of the evil that hides in the shadows.
+But do not pity those who hides in the shadows.
 <br>
 <br>
 And try to fix what seems forever broken.
