@@ -2,8 +2,8 @@
 
 <br>
 
-| [📖 Concept](#concept) |[🎮 Preview](#preview) | [:camera: Screenshots](#screenshots) |
-| -------- | --------------- | -------- |
+| [📖 Concept](#concept) |[🎮 Preview](#preview) | [⌨️ How to play](#How to play) | [📷 Screenshots](#screenshots) |
+| -------- | --------------- | --------------- | -------- |
 
 <br>
 
@@ -40,6 +40,17 @@ And try to fix what seems forever broken.
 ## Preview
 
 [<img src="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" width="50%">](https://www.youtube.com/watch?v=Th0mGT-HA3o "Demo game mechanics")
+
+<br>
+<br>
+
+## How to play
+
+- Press F to turn the flashlight On and Off.
+- Press E to interact with objects.
+- Hide inside closets.
+- Look out for mementos and a weapon.
+- Finish off your bald pursuer.
 
 <br>
 <br>
