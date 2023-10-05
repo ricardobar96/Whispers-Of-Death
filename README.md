@@ -2,7 +2,7 @@
 
 <br>
 
-| [📖 Concept](#concept) |[🎮 Preview](#preview) | [⌨️ How to play](#How to play) | [📷 Screenshots](#screenshots) |
+| [📖 Concept](#concept) |[🎮 Preview](#preview) | [⌨️ Gameplay](#gameplay) | [📷 Screenshots](#screenshots) |
 | -------- | --------------- | --------------- | -------- |
 
 <br>
@@ -44,7 +44,7 @@ _And try to fix what seems forever broken._
 <br>
 <br>
 
-## How to play
+## Gameplay
 
 - Press F to turn the flashlight On and Off.
 - Press E to interact with objects.
