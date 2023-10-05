@@ -2,7 +2,7 @@
 
 <br>
 
-| [📖 Concept](#concept) |[👁️ Preview](#preview) | [🖱 Gameplay](#gameplay) | [📷 Screenshots](#screenshots) |
+| [📖 Concept](#concept) |[🎮 Preview](#preview) | [🖱 Gameplay](#gameplay) | [📷 Screenshots](#screenshots) |
 | -------- | --------------- | --------------- | -------- |
 
 <br>
