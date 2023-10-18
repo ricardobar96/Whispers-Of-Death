@@ -2,8 +2,8 @@
 
 <br>
 
-| [📖 Concept](#concept) |[🎮 Preview](#preview) | [🖱 Gameplay](#gameplay) | [📷 Screenshots](#screenshots) |
-| -------- | --------------- | --------------- | -------- |
+| [📖 Concept](#concept) |[🎮 Preview](#preview) | [🖱 Gameplay](#gameplay) | [📷 Screenshots](#screenshots) | [🔖 License](#license) |
+| -------- | --------------- | --------------- | -------- | ----------- |
 
 <br>
 
@@ -67,3 +67,8 @@ _And try to fix what seems forever broken._
 
 
 ![Captura de pantalla 2023-10-07 123542](https://github.com/ricardobar96/beyond-redemption/assets/73242474/be23dcb7-2357-4842-9506-564cd4742cdc)
+
+## License
+Copyright ©️ 2023 Ricardo Baloira Armas
+
+Credit to [SkinRender]([https://www.renderhub.com/skinrender](https://www.renderhub.com/skinrender)https://www.renderhub.com/skinrender) for the creepy 3D monster
