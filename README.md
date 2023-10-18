@@ -71,4 +71,4 @@ _And try to fix what seems forever broken._
 ## License
 Copyright ©️ 2023 Ricardo Baloira Armas
 
-Credit to [SkinRender]([https://www.renderhub.com/skinrender](https://www.renderhub.com/skinrender)https://www.renderhub.com/skinrender) for the creepy 3D monster
+Credit to [SkinRender](https://www.renderhub.com/skinrender) for the creepy 3D monster
