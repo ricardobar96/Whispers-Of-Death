@@ -15,13 +15,13 @@ _Dirty, grimy, moldy._
 _The place where rest dozens of memories._
 <br>
 <br>
-_Mementos of a past friendship brought you to this place._
+_Mementos of a past friendship brought you to this lair._
 <br>
 <br>
 _And a bad deed that you don't even remember to commit._
 <br>
 <br>
-_Be aware of the bald, hurt enemy._
+_A grotesque monster takes his place, months ago a loved friend._
 <br>
 <br>
 _His eyes gleam with rage in the darkness. Apparently, you have misbehaved._
@@ -50,7 +50,7 @@ _And try to fix what seems forever broken._
 - Press E to interact with objects.
 - Hide inside closets.
 - Look out for mementos on the map.
-- Find a weapon and finish off your bald pursuer.
+- Find a weapon and finish off your pursuer.
 
 <br>
 <br>
