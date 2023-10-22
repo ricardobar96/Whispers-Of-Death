@@ -15,13 +15,13 @@ _Dirty, grimy, moldy._
 _The place where rest dozens of memories._
 <br>
 <br>
-_Mementos of a past friendship brought you to this place._
+_Mementos of a past friendship brought you to this lair._
 <br>
 <br>
 _And a bad deed that you don't even remember to commit._
 <br>
 <br>
-_Be aware of the bald, hurt enemy._
+_A grotesque monster takes his place, months ago a loved friend._
 <br>
 <br>
 _His eyes gleam with rage in the darkness. Apparently, you have misbehaved._
@@ -50,14 +50,14 @@ _And try to fix what seems forever broken._
 - Press E to interact with objects.
 - Hide inside closets.
 - Look out for mementos on the map.
-- Find a weapon and finish off your bald pursuer.
+- Find a weapon and finish off your pursuer.
 
 <br>
 <br>
 
 ## Screenshots
 
-![Captura de pantalla 2023-10-14 135043](https://github.com/ricardobar96/beyond-redemption/assets/73242474/6abb3fd8-cea9-47e3-be5b-ef289c0338fe)
+![Captura de pantalla 2023-10-22 133126](https://github.com/ricardobar96/beyond-redemption/assets/73242474/f02447b4-e126-4b5f-a74e-ceb7a8c463fd)
 
 
 ![Captura de pantalla 2023-10-14 134125](https://github.com/ricardobar96/beyond-redemption/assets/73242474/2cbbe504-ffa8-4831-8b18-346fff17a18f)
