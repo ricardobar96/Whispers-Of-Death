@@ -12,28 +12,28 @@
 _Dirty, grimy, moldy._
 <br>
 <br>
-_The place where rest dozens of memories._
+_The place where rest **dozens of memories**._
 <br>
 <br>
 _Mementos of a past friendship brought you to this lair._
 <br>
 <br>
-_And a bad deed that you don't even remember to commit._
+_And a **bad deed** that you don't even remember to commit._
 <br>
 <br>
-_A grotesque monster takes his place, months ago a loved friend._
+_A grotesque monster takes his place, months ago a **loved friend**._
 <br>
 <br>
 _His eyes gleam with rage in the darkness. Apparently, you have misbehaved._
 <br>
 <br>
-_Each memento you collect fuels his hatred towards you._
+_Each memento you collect fuels **his hatred** towards you._
 <br>
 <br>
 _But do not pity whom hides in the shadows._
 <br>
 <br>
-_And try to fix what seems forever broken._
+_And try to **fix** what seems forever broken._
 <br>
 <br>
 
