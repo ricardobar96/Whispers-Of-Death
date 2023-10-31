@@ -57,10 +57,16 @@ _And try to **fix** what seems forever broken._
 
 ## Screenshots
 
+![Captura de pantalla 2023-10-31 112318](https://github.com/ricardobar96/beyond-redemption/assets/73242474/ae92f8f0-dfaa-405d-bfb9-4aa29f42e2d8)
+
+
 ![Captura de pantalla 2023-10-22 133126](https://github.com/ricardobar96/beyond-redemption/assets/73242474/f02447b4-e126-4b5f-a74e-ceb7a8c463fd)
 
 
 ![Captura de pantalla 2023-10-14 134125](https://github.com/ricardobar96/beyond-redemption/assets/73242474/2cbbe504-ffa8-4831-8b18-346fff17a18f)
+
+
+![Captura de pantalla 2023-10-31 112330](https://github.com/ricardobar96/beyond-redemption/assets/73242474/e8d07d64-b78b-4500-82bb-6fc067ccb617)
 
 
 ![Captura de pantalla 2023-10-14 134107](https://github.com/ricardobar96/beyond-redemption/assets/73242474/aabe9d0f-83e8-4c70-861e-0c98e17d16ed)
