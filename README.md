@@ -39,7 +39,7 @@ _And try to **fix** what seems forever broken._
 
 ## Preview
 
-[<img src="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" width="50%">](https://youtu.be/i0b2RoKShlY "Demo game mechanics")
+[<img src="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" width="50%">](https://www.youtube.com/watch?v=HfEo2G-Ja-k&ab_channel=ilarioRaio "Demo game mechanics")
 
 <br>
 <br>
