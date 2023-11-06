@@ -48,6 +48,7 @@ _And try to **fix** what seems forever broken._
 
 - Press F to turn the flashlight On and Off.
 - Press E to interact with objects.
+- Press the left mouse button to shoot.
 - Hide inside closets.
 - Look out for mementos on the map.
 - Find a weapon and finish off your pursuer.
