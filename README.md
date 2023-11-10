@@ -70,10 +70,11 @@ _And try to **fix** what seems forever broken._
 ![Captura de pantalla 2023-10-31 112330](https://github.com/ricardobar96/beyond-redemption/assets/73242474/e8d07d64-b78b-4500-82bb-6fc067ccb617)
 
 
-![Captura de pantalla 2023-11-03 162845](https://github.com/ricardobar96/beyond-redemption/assets/73242474/6c431723-3188-4720-a5ac-7548acc82190)
+![Captura de pantalla 2023-11-03 162845](https://github.com/ricardobar96/beyond-redemption/assets/73242474/a27fd954-d6b5-4f4e-850a-9346654aed09)
 
 
-![Captura de pantalla 2023-10-07 123542](https://github.com/ricardobar96/beyond-redemption/assets/73242474/be23dcb7-2357-4842-9506-564cd4742cdc)
+![Captura de pantalla 2023-10-14 134107](https://github.com/ricardobar96/beyond-redemption/assets/73242474/f624dc39-7c24-4881-b465-49d0eedeeda4)
+
 
 ## License
 Copyright ©️ 2023 Ricardo Baloira Armas
