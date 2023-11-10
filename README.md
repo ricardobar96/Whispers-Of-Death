@@ -73,9 +73,6 @@ _And try to **fix** what seems forever broken._
 ![Captura de pantalla 2023-11-03 162845](https://github.com/ricardobar96/beyond-redemption/assets/73242474/6c431723-3188-4720-a5ac-7548acc82190)
 
 
-![Captura de pantalla 2023-10-14 134107](https://github.com/ricardobar96/beyond-redemption/assets/73242474/aabe9d0f-83e8-4c70-861e-0c98e17d16ed)
-
-
 ![Captura de pantalla 2023-10-07 123542](https://github.com/ricardobar96/beyond-redemption/assets/73242474/be23dcb7-2357-4842-9506-564cd4742cdc)
 
 ## License
