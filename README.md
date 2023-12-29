@@ -58,22 +58,17 @@ _And try to **fix** what seems forever broken._
 
 ## Screenshots
 
-![Captura de pantalla 2023-10-31 112318](https://github.com/ricardobar96/beyond-redemption/assets/73242474/ae92f8f0-dfaa-405d-bfb9-4aa29f42e2d8)
+![beyond1](images/beyond1.png)
 
+![beyond2](images/beyond2.png)
 
-![Captura de pantalla 2023-10-22 133126](https://github.com/ricardobar96/beyond-redemption/assets/73242474/f02447b4-e126-4b5f-a74e-ceb7a8c463fd)
+![beyond3](images/beyond3.png)
 
+![beyond4](images/beyond4.png)
 
-![Captura de pantalla 2023-10-14 134125](https://github.com/ricardobar96/beyond-redemption/assets/73242474/2cbbe504-ffa8-4831-8b18-346fff17a18f)
+![beyond5](images/beyond5.png)
 
-
-![Captura de pantalla 2023-10-31 112330](https://github.com/ricardobar96/beyond-redemption/assets/73242474/e8d07d64-b78b-4500-82bb-6fc067ccb617)
-
-
-![Captura de pantalla 2023-11-03 162845](https://github.com/ricardobar96/beyond-redemption/assets/73242474/a27fd954-d6b5-4f4e-850a-9346654aed09)
-
-
-![Captura de pantalla 2023-10-14 134107](https://github.com/ricardobar96/beyond-redemption/assets/73242474/f624dc39-7c24-4881-b465-49d0eedeeda4)
+![beyond6](images/beyond6.png)
 
 
 ## License
