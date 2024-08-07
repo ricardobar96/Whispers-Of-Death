@@ -21,7 +21,7 @@ _Mementos of a past friendship brought you to this lair._
 _And a **bad deed** that you don't even remember to commit._
 <br>
 <br>
-_A grotesque bald monster takes his place, months ago a **normal friend**._
+_A **grotesque bald monster** takes his place, months ago a **normal friend**._
 <br>
 <br>
 _His eyes gleam with rage in the darkness. Apparently, you have misbehaved._
